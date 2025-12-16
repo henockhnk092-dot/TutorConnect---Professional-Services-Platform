@@ -1,43 +1,34 @@
 # TutorConnect   Professional Services Platform
 
-> A full-stack platform revolutionizing the way students connect with tutors and technical service providers. Built with modern technologies and designed for scalability.
+> **A full-stack platform revolutionizing the way students connect with tutors and technical service providers. Built with modern technologies and designed for scalability.**
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Technologies](#technologies)
-- [Features](#features)
-- [Technical Skills](#technical-skills)
-- [External Links](#external-links)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Status](#project-status)
-- [Keywords](#keywords)
+---
 
-## 🎯 Overview
-
-**Project Name:** TutorConnect   Professional Services Platform
+## 📋 Overview
 
 **Categories:** Web Development, Education/E-Learning
 
+**Technologies:** Multiple Technologies
+
 **Project Period:** January 2025 - January 2025
 
-**Status:** Completed and Maintained
+**Status:** Completed and Maintained | **Last Updated:** January 2025
 
-**Last Updated:** January 2025
+---
 
-### Description
+## 🚀 Description
 
 A full-stack platform revolutionizing the way students connect with tutors and technical service providers. Built with modern technologies and designed for scalability.
 
-## 🚀 Technologies
+---
 
-Multiple Technologies
-
-## ✨ Features
+## 💡 Project Highlights
 
 - Successfully developed and deployed TutorConnect   Professional Services Platform
 - Implemented using Multiple Technologies
 - Demonstrated proficiency in Web Development, Education/E-Learning
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -49,34 +40,20 @@ Multiple Technologies
 - Version Control (Git/GitHub)
 - Project Management
 
-## 🔗 External Links
+---
 
-Video Tutorials/Demos (YouTube):
-- https://www.youtube.com/playlist?list=PLrZbkNpNVSwwbf-xK9LTqoFwbl-CdnG_Y
+## 🔗 Links & Resources
 
-## 📦 Installation
+### 📺 Video Tutorials
+- [https://www.youtube.com/playlist?list=PLrZbkNpNVSwwbf-xK9LTqoFwbl-CdnG_Y](https://www.youtube.com/playlist?list=PLrZbkNpNVSwwbf-xK9LTqoFwbl-CdnG_Y)
 
-```bash
-# Clone the repository
-git clone https://github.com/HorizonHnk/TutorConnect---Professional-Services-Platform
+---
 
-# Navigate to the project directory
-cd TutorConnect---Professional-Services-Platform
+## 📦 Repository
 
-# Install dependencies (if applicable)
-# npm install
-# or
-# pip install -r requirements.txt
-```
+**GitHub:** [https://github.com/HorizonHnk/TutorConnect---Professional-Services-Platform](https://github.com/HorizonHnk/TutorConnect---Professional-Services-Platform)
 
-## 💻 Usage
-
-Please refer to the project-specific documentation for detailed usage instructions.
-
-## 📊 Project Status
-
-- **Status:** Completed and Maintained
-- **Last Updated:** January 2025
+---
 
 ## 🏷️ Keywords
 
@@ -89,16 +66,8 @@ Multiple Technologies, Web Development, Education/E-Learning, Software Developme
 **Henock Mukonkole (HorizonHnk)**
 
 - GitHub: [@henockhnk092-dot](https://github.com/henockhnk092-dot/)
-- Portfolio: [86 Technical Projects](https://github.com/henockhnk092-dot/)
-
-## 📄 License
-
-This project is part of my professional portfolio. Please contact me for licensing information.
-
-## 🤝 Contributing
-
-This is a portfolio project, but feedback and suggestions are always welcome!
+- Portfolio: [90 Technical Projects](https://github.com/henockhnk092-dot/)
 
 ---
 
-*Generated as part of HorizonHnk's GitHub Portfolio Restoration Project*
+*Part of my professional portfolio showcasing expertise in Web Development, Education/E-Learning*
